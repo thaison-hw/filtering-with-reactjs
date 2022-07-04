@@ -13,7 +13,7 @@
 
 ## Demo
 
-Hosted on [filter-with-reactjs.vercel.app](filter-with-reactjs.vercel.app)
+Hosted on [https://filter-with-reactjs.vercel.app/](https://filter-with-reactjs.vercel.app/)
 
 ## Setup
 
