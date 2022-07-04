@@ -13,4 +13,19 @@
 
 ## Demo
 
-Hosted on [https://bookshelf.lol](https://bookshelf.lol)
+Hosted on [filter-with-reactjs.vercel.app](filter-with-reactjs.vercel.app)
+
+## Setup
+
+```
+git clone 
+cd 
+npm install
+```
+
+## Running the app
+
+```shell
+npm start
+```
+
